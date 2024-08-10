@@ -37,6 +37,7 @@ armbian-add-overlay /path/to/fbtft-ili9341.dts
 Test
 
 ```
+# apt install fbi
 fbi -T 2 -d /dev/fb0 -a image.jpg
 ```
 
