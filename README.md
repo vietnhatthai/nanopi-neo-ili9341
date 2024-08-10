@@ -23,9 +23,6 @@ PG9   <-->  T_IRG
 This is the /boot/armbianEnv.txt
 ```
 overlays=spi1
-param_spidev_spi_bus=1
-param_spidev_spi_cs=1
-param_spidev_spi_cs=0
 user_overlays=fbtft-ili9341
 ```
 
