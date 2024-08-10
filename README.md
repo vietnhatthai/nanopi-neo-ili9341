@@ -41,6 +41,9 @@ Test
 fbi -T 2 -d /dev/fb0 -a image.jpg
 ```
 
+Demo
+
+<img src="https://raw.githubusercontent.com/vietnhatthai/nanopi-neo-ili9341/main/demo.jpg" height="256"/>
 
 Hardware
 
